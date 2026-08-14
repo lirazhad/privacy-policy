@@ -1,9 +1,8 @@
 ---
 layout: privacy
-title: Roofy Privacy Policy
+title: Story Time Policy
 ---
 
-Story Time — Privacy Policy
 Publisher (Data Controller): Laor tech
 Contact for privacy questions and deletion requests: lirazhad@gmail.com
 Effective date: 2026
