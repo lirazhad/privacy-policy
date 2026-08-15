@@ -3,8 +3,6 @@ layout: privacy
 title: Privacy Policies
 ---
 
-# Privacy Policies
-
 Privacy policies for my applications.
 
 - [Roofy](./policies/roofy/)
